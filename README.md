@@ -1,22 +1,22 @@
-# 🌱 Farm GPT
+#  Farm GPT
 
 **Farm GPT** is a smart and responsive web platform designed to assist farmers, agricultural enthusiasts, and students in making data-driven decisions about crop selection, fertilizer usage, seasonal planning, and more — powered by a clean UI and AI-integrated future roadmap.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 User Authentication (Register/Login with validation)
-- 📊 Seasonal Crop Dashboard
-- 🌿 Fertilizer Explorer (All-in-one view with nutrient content)
-- 📌 Crop Detail Pages (with market price, season, soil type)
-- 📍 Navigation to Home, About, and Contact pages
-- 🌐 Modern, mobile-responsive UI
-- 🔜 AI Assistant (Coming soon for crop recommendations and disease detection)
+-  User Authentication (Register/Login with validation)
+-  Seasonal Crop Dashboard
+-  Fertilizer Explorer (All-in-one view with nutrient content)
+-  Crop Detail Pages (with market price, season, soil type)
+-  Navigation to Home, About, and Contact pages
+-  Modern, mobile-responsive UI
+-  AI Assistant (Coming soon for crop recommendations and disease detection)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Farm-GPT/
 ├── index.html
@@ -41,7 +41,7 @@ Farm-GPT/
 └── README.md
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **HTML5 & CSS3** – Semantic structure & responsive design
 - **JavaScript (Vanilla)** – Form validation, localStorage, interactivity
